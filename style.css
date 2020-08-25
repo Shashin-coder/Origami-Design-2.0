@@ -1,0 +1,38 @@
+
+html, body {
+    margin: 10;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    display: block;
+    border: 10px solid ;
+    margin-right:auto;
+    margin-left:auto;
+    
+  }.hello{
+    color: dodgerblue
+    style
+ 
+}
+.intro{
+    color:darksalmon
+    
+}
+.camelchamelon{
+color:aquamarine;
+background-color: rebeccapurple;
+    display:flex;
+  
+    flex-direction:row;
+    justify-content: left;
+  
+  }
+  .facts{
+      color:darkturquoise
+
+  }
+  
+  
+  
+ 
